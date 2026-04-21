@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-04-21T18:39:14Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.1978,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Tema_TSC"
+        },
+        "Owner": "Mihaela Negoita <mihaela.negoita0611@stud.acs.upb.ro>",
+        "Size": {
+            "X": 46.1,
+            "Y": 35
+        }
+    }
+}
